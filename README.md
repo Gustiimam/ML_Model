@@ -4,9 +4,9 @@ This repository contains a machine learning model that predicts whether a potent
 
 ##Project Files
 
-- **Machine_Learning_Model.ipynb: Contains the code for training the machine learning model, including data preprocessing, model training, and evaluation.
-- **Machine_Learning_Model_Tester.ipynb: Contains the code for testing the trained model on new data inputs.
-- **insurance_model.pkl: The trained machine learning model saved in pickle format.
+- **Machine_Learning_Model.ipynb**: Contains the code for training the machine learning model, including data preprocessing, model training, and evaluation.
+- **Machine_Learning_Model_Tester.ipynb**: Contains the code for testing the trained model on new data inputs.
+- **insurance_model.pkl**: The trained machine learning model saved in pickle format.
 
 ##Features Used in the Model
 
